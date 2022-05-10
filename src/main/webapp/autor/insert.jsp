@@ -17,7 +17,7 @@
                     <input type="text" name="nome" class="form-control" />
                 </div>
                 <hr />
-                <a href="/autor/list" class="btn btn-primary">Voltar</a>
+                <a href="/autor/list.jsp" class="btn btn-primary">Voltar</a>
                 <input type="submit" value="Salvar" class="btn btn-success" />
             </form>
         </main>
